@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @amss2021 and write code by c++, java, c#, python.work by android studio for creating mobile app
+- 👋 Hi, I’m @amss2021 and write code by c++, java, c#, python.
+  Work by Android Studio for creating Mobile app
   I am Studying for a master's Degree (#Azad Mashhad Unversity#)
   I'm an Adventurer
   WorkBy : NetBeans , VisualStudio , Eclipse (IDE's) 
